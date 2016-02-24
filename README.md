@@ -1,5 +1,4 @@
 # Daedalus
-A console based labyrinth game (c++)
 Daedalus is terminal-based labyrinth game, where the user’s goal to find his way out before his life points run out. 
 
 #Playing the game
