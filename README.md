@@ -20,3 +20,13 @@ The program design uses the “Passive view” concept of the Model-View-Control
 ![Controller layer class diagram](3_classdiagram-controllerlayer.png)
 ##Model layer diagram
 ![Model layer diagram](4_classdiagram-modellayer.png)
+
+#Screenshots
+##Main menu
+![Main menu](ingame_1_mainmenu.png)
+##Character selection
+![Character selection](ingame_2_characterscreen.png)
+##Labyrinth selection
+![Labyrinth selection](ingame_3_labyrinthselect.png)
+##Gameplay
+![Gameplay](ingame_4_gameplay.png)
